@@ -19,7 +19,7 @@ if ($age >= 18) {
 <body>
     <h1>Welcome to PHP!</h1>
 
-    <p>Hello, <?php echo $name; ?>. You are an <?php echo $status; ?>.</p>
+    <p>Hellodfdf, <?php echo $name; ?>. You are an <?php echo $status; ?>.</p>
 
     <!-- Simple form using GET -->
     <form method="get">
