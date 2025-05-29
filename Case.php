@@ -17,7 +17,7 @@ if ($age >= 18) {
     <title>My First PHP Page</title>
 </head>
 <body>
-    <h1>Welcome to PHP!</h1>
+    <h1>Welcome!</h1>
 
     <p>Hellodfdf, <?php echo $name; ?>. You are an <?php echo $status; ?>.</p>
 
